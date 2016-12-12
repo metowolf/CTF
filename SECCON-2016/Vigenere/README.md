@@ -29,7 +29,7 @@ int main(){
 	return 0;
 }
 ```
-由于我不会在 C++ 下 MD5，所以换了 Python 来验证数据
+由于我不会在 C++ 下 MD5，所以换了 Python 来验证数据（在 src 目录下已经包含了新实现的 python 程序）
 ```python
 import hashlib
 import sys
