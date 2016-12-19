@@ -123,4 +123,4 @@ SECCON{_h3110_w3_h4ve_fun_w4rg4m3_}
 
 得到 Flag，隐藏得真深
 
-**SECCON{_h3110_w3_h4ve_fun_w4rg4m3_}**
+`SECCON{_h3110_w3_h4ve_fun_w4rg4m3_}`

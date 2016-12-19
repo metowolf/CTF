@@ -8,6 +8,6 @@
 一路 F8 下来，到输入密码处卡住。输入密码后换成 F7，然后 `goto 00401663` 处，一路 F8 飞奔。  
 得到 Flag
 
-**SECCON{check_Ascii85}**
+`SECCON{check_Ascii85}`
 
-![](https://ws2.sinaimg.cn/large/a15b4afejw1famygslv13j21am0pa0zc)
+![](http://ww2.sinaimg.cn/large/a15b4afegw1faw6tjk6wrj20k70d2wfo)
