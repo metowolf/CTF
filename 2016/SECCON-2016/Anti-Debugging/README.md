@@ -1,13 +1,28 @@
-# WriteUp
+# Anti-Debugging (100 points)
 
-首先用 PEiD 查壳，并没有东西。
+Check file command and  its result as below.
+```
+$ file bin
+bin: PE32 executable (console) Intel 80386, for MS Windows
+```
 
-在控制台载入，随手乱输一串密码，帅气地返回 `Your password is wrong`.  
-果断扔进 OD，查找相关字符串，并没有找到密码。
+When running it from command line we get a password prompt
+```
+C:\>bin
+Input password >metowolf
+Your password is wrong.
+```
 
-一路 F8 下来，到输入密码处卡住。输入密码后换成 F7，然后 `goto 00401663` 处，一路 F8 飞奔。  
-得到 Flag
+Fire-up IDA Pro and open this executable in it  
+search `Your password is wrong`, found the last function is
 
-`SECCON{check_Ascii85}`
+```
+mov        dword [ebp+var_64], eax
+cmp        dword [ebp+var_64], 0x0
+jne        loc_40174f
+push       0x40a350     ; "password is wrong.\\n"
+```
 
-![](http://ww2.sinaimg.cn/large/a15b4afegw1faw6tjk6wrj20k70d2wfo)
+modify `jne` to `jmp 00401663`
+
+executed we get the flag `SECCON{check_Ascii85}`
