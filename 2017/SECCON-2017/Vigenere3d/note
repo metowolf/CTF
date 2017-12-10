@@ -1,9 +1,0 @@
-$ python Vigenere3d.py SECCON{**************************} **************
-POR4dnyTLHBfwbxAAZhe}}ocZR3Cxcftw9
-
-SECCON{xxxxxxxxxxxxxxxxxxxxxxxxxx}
-DQV85gD*******DQV85gD*******DQV85g
-POR4dnyTLHBfwbxAAZhe}}ocZR3Cxcftw9
-
-➜  ~ python Vigenere3d.py SECCON{xxxxxxxxxxxxxxxxxxxxxxxxxx} DQV85gDxxxxxxx
-SECCON{Welc0me_to_SECCON_CTF_2017}
