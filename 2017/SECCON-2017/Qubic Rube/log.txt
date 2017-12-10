@@ -1,0 +1,589 @@
+$ python3 download.py
+download http://qubicrube.pwn.seccon.jp:33654/images/02c286df1bbd7923d1f7_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/02c286df1bbd7923d1f7_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/02c286df1bbd7923d1f7_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/02c286df1bbd7923d1f7_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/02c286df1bbd7923d1f7_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/02c286df1bbd7923d1f7_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 2 / 50
+http://qubicrube.pwn.seccon.jp:33654/038bc84b7b3f9681630f
+download http://qubicrube.pwn.seccon.jp:33654/images/038bc84b7b3f9681630f_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/038bc84b7b3f9681630f_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/038bc84b7b3f9681630f_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/038bc84b7b3f9681630f_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/038bc84b7b3f9681630f_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/038bc84b7b3f9681630f_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 3 / 50
+http://qubicrube.pwn.seccon.jp:33654/04c0348a6aeca46e33af
+download http://qubicrube.pwn.seccon.jp:33654/images/04c0348a6aeca46e33af_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/04c0348a6aeca46e33af_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/04c0348a6aeca46e33af_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/04c0348a6aeca46e33af_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/04c0348a6aeca46e33af_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/04c0348a6aeca46e33af_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 4 / 50
+http://qubicrube.pwn.seccon.jp:33654/05778a23f9eca28ff7e2
+download http://qubicrube.pwn.seccon.jp:33654/images/05778a23f9eca28ff7e2_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/05778a23f9eca28ff7e2_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/05778a23f9eca28ff7e2_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/05778a23f9eca28ff7e2_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/05778a23f9eca28ff7e2_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/05778a23f9eca28ff7e2_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 5 / 50
+http://qubicrube.pwn.seccon.jp:33654/066a75f5d4895eb1d668
+download http://qubicrube.pwn.seccon.jp:33654/images/066a75f5d4895eb1d668_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/066a75f5d4895eb1d668_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/066a75f5d4895eb1d668_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/066a75f5d4895eb1d668_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/066a75f5d4895eb1d668_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/066a75f5d4895eb1d668_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 6 / 50
+http://qubicrube.pwn.seccon.jp:33654/07f06a3ec2039c403953
+download http://qubicrube.pwn.seccon.jp:33654/images/07f06a3ec2039c403953_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/07f06a3ec2039c403953_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/07f06a3ec2039c403953_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/07f06a3ec2039c403953_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/07f06a3ec2039c403953_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/07f06a3ec2039c403953_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 7 / 50
+http://qubicrube.pwn.seccon.jp:33654/08dbdb72757675be6bf6
+download http://qubicrube.pwn.seccon.jp:33654/images/08dbdb72757675be6bf6_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/08dbdb72757675be6bf6_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/08dbdb72757675be6bf6_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/08dbdb72757675be6bf6_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/08dbdb72757675be6bf6_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/08dbdb72757675be6bf6_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 8 / 50
+http://qubicrube.pwn.seccon.jp:33654/099ee1d7a7ae204f284d
+download http://qubicrube.pwn.seccon.jp:33654/images/099ee1d7a7ae204f284d_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/099ee1d7a7ae204f284d_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/099ee1d7a7ae204f284d_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/099ee1d7a7ae204f284d_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/099ee1d7a7ae204f284d_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/099ee1d7a7ae204f284d_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 9 / 50
+http://qubicrube.pwn.seccon.jp:33654/105019f4e43866e664e2
+download http://qubicrube.pwn.seccon.jp:33654/images/105019f4e43866e664e2_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/105019f4e43866e664e2_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/105019f4e43866e664e2_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/105019f4e43866e664e2_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/105019f4e43866e664e2_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/105019f4e43866e664e2_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 10 / 50
+http://qubicrube.pwn.seccon.jp:33654/11ed5b705e72e9fa2e57
+download http://qubicrube.pwn.seccon.jp:33654/images/11ed5b705e72e9fa2e57_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/11ed5b705e72e9fa2e57_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/11ed5b705e72e9fa2e57_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/11ed5b705e72e9fa2e57_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/11ed5b705e72e9fa2e57_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/11ed5b705e72e9fa2e57_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 11 / 50
+http://qubicrube.pwn.seccon.jp:33654/12de86366ccad8ad3f0e
+download http://qubicrube.pwn.seccon.jp:33654/images/12de86366ccad8ad3f0e_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/12de86366ccad8ad3f0e_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/12de86366ccad8ad3f0e_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/12de86366ccad8ad3f0e_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/12de86366ccad8ad3f0e_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/12de86366ccad8ad3f0e_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 12 / 50
+http://qubicrube.pwn.seccon.jp:33654/131c139206e8120f4e89
+download http://qubicrube.pwn.seccon.jp:33654/images/131c139206e8120f4e89_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/131c139206e8120f4e89_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/131c139206e8120f4e89_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/131c139206e8120f4e89_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/131c139206e8120f4e89_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/131c139206e8120f4e89_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 13 / 50
+http://qubicrube.pwn.seccon.jp:33654/1415cba87fcc69322a30
+download http://qubicrube.pwn.seccon.jp:33654/images/1415cba87fcc69322a30_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/1415cba87fcc69322a30_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/1415cba87fcc69322a30_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/1415cba87fcc69322a30_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/1415cba87fcc69322a30_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/1415cba87fcc69322a30_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 14 / 50
+http://qubicrube.pwn.seccon.jp:33654/15cfd1a099bcabac7cac
+download http://qubicrube.pwn.seccon.jp:33654/images/15cfd1a099bcabac7cac_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/15cfd1a099bcabac7cac_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/15cfd1a099bcabac7cac_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/15cfd1a099bcabac7cac_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/15cfd1a099bcabac7cac_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/15cfd1a099bcabac7cac_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 15 / 50
+http://qubicrube.pwn.seccon.jp:33654/16141d586d42ba152be1
+download http://qubicrube.pwn.seccon.jp:33654/images/16141d586d42ba152be1_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/16141d586d42ba152be1_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/16141d586d42ba152be1_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/16141d586d42ba152be1_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/16141d586d42ba152be1_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/16141d586d42ba152be1_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 16 / 50
+http://qubicrube.pwn.seccon.jp:33654/17c47673805b488183e0
+download http://qubicrube.pwn.seccon.jp:33654/images/17c47673805b488183e0_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/17c47673805b488183e0_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/17c47673805b488183e0_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/17c47673805b488183e0_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/17c47673805b488183e0_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/17c47673805b488183e0_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 17 / 50
+http://qubicrube.pwn.seccon.jp:33654/184d9c424fa4c5efe920
+download http://qubicrube.pwn.seccon.jp:33654/images/184d9c424fa4c5efe920_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/184d9c424fa4c5efe920_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/184d9c424fa4c5efe920_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/184d9c424fa4c5efe920_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/184d9c424fa4c5efe920_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/184d9c424fa4c5efe920_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 18 / 50
+http://qubicrube.pwn.seccon.jp:33654/198fa00255bcf13c4ffb
+download http://qubicrube.pwn.seccon.jp:33654/images/198fa00255bcf13c4ffb_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/198fa00255bcf13c4ffb_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/198fa00255bcf13c4ffb_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/198fa00255bcf13c4ffb_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/198fa00255bcf13c4ffb_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/198fa00255bcf13c4ffb_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 19 / 50
+http://qubicrube.pwn.seccon.jp:33654/20a3aca03253a3c0e432
+download http://qubicrube.pwn.seccon.jp:33654/images/20a3aca03253a3c0e432_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/20a3aca03253a3c0e432_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/20a3aca03253a3c0e432_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/20a3aca03253a3c0e432_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/20a3aca03253a3c0e432_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/20a3aca03253a3c0e432_B.png
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 20 / 50
+http://qubicrube.pwn.seccon.jp:33654/21d2af0aea96b7b9f6bd
+download http://qubicrube.pwn.seccon.jp:33654/images/21d2af0aea96b7b9f6bd_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/21d2af0aea96b7b9f6bd_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/21d2af0aea96b7b9f6bd_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/21d2af0aea96b7b9f6bd_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/21d2af0aea96b7b9f6bd_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/21d2af0aea96b7b9f6bd_B.png
+http://qubicrube.pwn.seccon.jp:33654/22a93f9e41072fddb4d9
+Have fun!
+Qubic Rube
+No. 21 / 50
+Next URL is:
+SECCON 2017 Online CTF
+download http://qubicrube.pwn.seccon.jp:33654/images/22a93f9e41072fddb4d9_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/22a93f9e41072fddb4d9_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/22a93f9e41072fddb4d9_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/22a93f9e41072fddb4d9_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/22a93f9e41072fddb4d9_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/22a93f9e41072fddb4d9_B.png
+SECCON 2017 Online CTF
+Next URL is:
+Have fun!
+No. 22 / 50
+Qubic Rube
+http://qubicrube.pwn.seccon.jp:33654/230358482d96a979549d
+download http://qubicrube.pwn.seccon.jp:33654/images/230358482d96a979549d_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/230358482d96a979549d_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/230358482d96a979549d_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/230358482d96a979549d_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/230358482d96a979549d_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/230358482d96a979549d_B.png
+Have fun!
+Next URL is:
+http://qubicrube.pwn.seccon.jp:33654/24bab1e591f1b7528bec
+No. 23 / 50
+Qubic Rube
+SECCON 2017 Online CTF
+download http://qubicrube.pwn.seccon.jp:33654/images/24bab1e591f1b7528bec_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/24bab1e591f1b7528bec_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/24bab1e591f1b7528bec_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/24bab1e591f1b7528bec_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/24bab1e591f1b7528bec_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/24bab1e591f1b7528bec_B.png
+http://qubicrube.pwn.seccon.jp:33654/252031fb24e8fec9649a
+No. 24 / 50
+Next URL is:
+Qubic Rube
+Have fun!
+SECCON 2017 Online CTF
+download http://qubicrube.pwn.seccon.jp:33654/images/252031fb24e8fec9649a_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/252031fb24e8fec9649a_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/252031fb24e8fec9649a_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/252031fb24e8fec9649a_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/252031fb24e8fec9649a_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/252031fb24e8fec9649a_B.png
+Next URL is:
+No. 25 / 50
+Qubic Rube
+http://qubicrube.pwn.seccon.jp:33654/260058392f57bad8cbf9
+SECCON 2017 Online CTF
+Have fun!
+download http://qubicrube.pwn.seccon.jp:33654/images/260058392f57bad8cbf9_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/260058392f57bad8cbf9_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/260058392f57bad8cbf9_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/260058392f57bad8cbf9_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/260058392f57bad8cbf9_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/260058392f57bad8cbf9_B.png
+Have fun!
+SECCON 2017 Online CTF
+Qubic Rube
+http://qubicrube.pwn.seccon.jp:33654/2729bdf233371b625fc0
+No. 26 / 50
+Next URL is:
+download http://qubicrube.pwn.seccon.jp:33654/images/2729bdf233371b625fc0_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/2729bdf233371b625fc0_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/2729bdf233371b625fc0_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/2729bdf233371b625fc0_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/2729bdf233371b625fc0_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/2729bdf233371b625fc0_B.png
+Next URL is:
+No. 27 / 50
+http://qubicrube.pwn.seccon.jp:33654/28bfeb855b5a0194d21f
+Qubic Rube
+Have fun!
+SECCON 2017 Online CTF
+download http://qubicrube.pwn.seccon.jp:33654/images/28bfeb855b5a0194d21f_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/28bfeb855b5a0194d21f_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/28bfeb855b5a0194d21f_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/28bfeb855b5a0194d21f_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/28bfeb855b5a0194d21f_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/28bfeb855b5a0194d21f_B.png
+No. 28 / 50
+Qubic Rube
+SECCON 2017 Online CTF
+http://qubicrube.pwn.seccon.jp:33654/294baf0fb5a3cac9909b
+Have fun!
+Next URL is:
+download http://qubicrube.pwn.seccon.jp:33654/images/294baf0fb5a3cac9909b_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/294baf0fb5a3cac9909b_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/294baf0fb5a3cac9909b_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/294baf0fb5a3cac9909b_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/294baf0fb5a3cac9909b_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/294baf0fb5a3cac9909b_B.png
+Qubic Rube
+http://qubicrube.pwn.seccon.jp:33654/30468d9272ca9219655a
+SECCON 2017 Online CTF
+No. 29 / 50
+Next URL is:
+Have fun!
+download http://qubicrube.pwn.seccon.jp:33654/images/30468d9272ca9219655a_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/30468d9272ca9219655a_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/30468d9272ca9219655a_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/30468d9272ca9219655a_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/30468d9272ca9219655a_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/30468d9272ca9219655a_B.png
+http://qubicrube.pwn.seccon.jp:33654/3142aec6cd75d8596295
+Qubic Rube
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 30 / 50
+download http://qubicrube.pwn.seccon.jp:33654/images/3142aec6cd75d8596295_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/3142aec6cd75d8596295_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/3142aec6cd75d8596295_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/3142aec6cd75d8596295_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/3142aec6cd75d8596295_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/3142aec6cd75d8596295_B.png
+http://qubicrube.pwn.seccon.jp:33654/32f17aa8d1e7a164177c
+No. 31 / 50
+SECCON 2017 Online CTF
+Have fun!
+Next URL is:
+Qubic Rube
+download http://qubicrube.pwn.seccon.jp:33654/images/32f17aa8d1e7a164177c_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/32f17aa8d1e7a164177c_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/32f17aa8d1e7a164177c_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/32f17aa8d1e7a164177c_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/32f17aa8d1e7a164177c_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/32f17aa8d1e7a164177c_B.png
+No. 32 / 50
+Have fun!
+http://qubicrube.pwn.seccon.jp:33654/334702a26f1f51af54d5
+Next URL is:
+Qubic Rube
+SECCON 2017 Online CTF
+download http://qubicrube.pwn.seccon.jp:33654/images/334702a26f1f51af54d5_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/334702a26f1f51af54d5_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/334702a26f1f51af54d5_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/334702a26f1f51af54d5_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/334702a26f1f51af54d5_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/334702a26f1f51af54d5_B.png
+No. 33 / 50
+SECCON 2017 Online CTF
+http://qubicrube.pwn.seccon.jp:33654/34a34e8cfd1e6ec5bf9b
+Qubic Rube
+Have fun!
+Next URL is:
+download http://qubicrube.pwn.seccon.jp:33654/images/34a34e8cfd1e6ec5bf9b_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/34a34e8cfd1e6ec5bf9b_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/34a34e8cfd1e6ec5bf9b_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/34a34e8cfd1e6ec5bf9b_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/34a34e8cfd1e6ec5bf9b_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/34a34e8cfd1e6ec5bf9b_B.png
+Next URL is:
+SECCON 2017 Online CTF
+Have fun!
+No. 34 / 50
+http://qubicrube.pwn.seccon.jp:33654/35b9575e4f05df6c47e1
+Qubic Rube
+download http://qubicrube.pwn.seccon.jp:33654/images/35b9575e4f05df6c47e1_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/35b9575e4f05df6c47e1_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/35b9575e4f05df6c47e1_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/35b9575e4f05df6c47e1_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/35b9575e4f05df6c47e1_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/35b9575e4f05df6c47e1_B.png
+SECCON 2017 Online CTF
+Next URL is:
+http://qubicrube.pwn.seccon.jp:33654/3696a2ce932704226509
+Qubic Rube
+No. 35 / 50
+Have fun!
+download http://qubicrube.pwn.seccon.jp:33654/images/3696a2ce932704226509_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/3696a2ce932704226509_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/3696a2ce932704226509_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/3696a2ce932704226509_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/3696a2ce932704226509_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/3696a2ce932704226509_B.png
+SECCON 2017 Online CTF
+No. 36 / 50
+Have fun!
+http://qubicrube.pwn.seccon.jp:33654/37cc34927e5fadaf1615
+Next URL is:
+Qubic Rube
+download http://qubicrube.pwn.seccon.jp:33654/images/37cc34927e5fadaf1615_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/37cc34927e5fadaf1615_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/37cc34927e5fadaf1615_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/37cc34927e5fadaf1615_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/37cc34927e5fadaf1615_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/37cc34927e5fadaf1615_B.png
+No. 37 / 50
+SECCON 2017 Online CTF
+http://qubicrube.pwn.seccon.jp:33654/3857ffe557362fd7072d
+Have fun!
+Next URL is:
+Qubic Rube
+download http://qubicrube.pwn.seccon.jp:33654/images/3857ffe557362fd7072d_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/3857ffe557362fd7072d_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/3857ffe557362fd7072d_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/3857ffe557362fd7072d_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/3857ffe557362fd7072d_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/3857ffe557362fd7072d_B.png
+No. 38 / 50
+http://qubicrube.pwn.seccon.jp:33654/39c7d1aa9cfdb39e4931
+Qubic Rube
+Have fun!
+Next URL is:
+SECCON 2017 Online CTF
+download http://qubicrube.pwn.seccon.jp:33654/images/39c7d1aa9cfdb39e4931_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/39c7d1aa9cfdb39e4931_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/39c7d1aa9cfdb39e4931_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/39c7d1aa9cfdb39e4931_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/39c7d1aa9cfdb39e4931_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/39c7d1aa9cfdb39e4931_B.png
+Next URL is:
+Qubic Rube
+No. 39 / 50
+SECCON 2017 Online CTF
+http://qubicrube.pwn.seccon.jp:33654/40f218c1e4292653bc94
+Have fun!
+download http://qubicrube.pwn.seccon.jp:33654/images/40f218c1e4292653bc94_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/40f218c1e4292653bc94_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/40f218c1e4292653bc94_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/40f218c1e4292653bc94_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/40f218c1e4292653bc94_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/40f218c1e4292653bc94_B.png
+http://qubicrube.pwn.seccon.jp:33654/41669781eb79233a5557
+Qubic Rube
+SECCON 2017 Online CTF
+Next URL is:
+Have fun!
+No. 40 / 50
+download http://qubicrube.pwn.seccon.jp:33654/images/41669781eb79233a5557_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/41669781eb79233a5557_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/41669781eb79233a5557_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/41669781eb79233a5557_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/41669781eb79233a5557_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/41669781eb79233a5557_B.png
+SECCON 2017 Online CTF
+Qubic Rube
+Next URL is:
+No. 41 / 50
+Go! Go!
+http://qubicrube.pwn.seccon.jp:33654/42fd44aa6a1f81bc729c
+download http://qubicrube.pwn.seccon.jp:33654/images/42fd44aa6a1f81bc729c_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/42fd44aa6a1f81bc729c_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/42fd44aa6a1f81bc729c_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/42fd44aa6a1f81bc729c_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/42fd44aa6a1f81bc729c_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/42fd44aa6a1f81bc729c_B.png
+No. 42 / 50
+Next URL is:
+http://qubicrube.pwn.seccon.jp:33654/43c1116da6aa82c6b5bd
+SECCON 2017 Online CTF
+Go! Go!
+Qubic Rube
+download http://qubicrube.pwn.seccon.jp:33654/images/43c1116da6aa82c6b5bd_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/43c1116da6aa82c6b5bd_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/43c1116da6aa82c6b5bd_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/43c1116da6aa82c6b5bd_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/43c1116da6aa82c6b5bd_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/43c1116da6aa82c6b5bd_B.png
+Qubic Rube
+Next URL is:
+No. 43 / 50
+Go! Go!
+http://qubicrube.pwn.seccon.jp:33654/44e7682958913e812559
+SECCON 2017 Online CTF
+download http://qubicrube.pwn.seccon.jp:33654/images/44e7682958913e812559_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/44e7682958913e812559_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/44e7682958913e812559_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/44e7682958913e812559_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/44e7682958913e812559_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/44e7682958913e812559_B.png
+SECCON 2017 Online CTF
+Go! Go!
+http://qubicrube.pwn.seccon.jp:33654/45b8b73a451a7adaa773
+No. 44 / 50
+Qubic Rube
+Next URL is:
+download http://qubicrube.pwn.seccon.jp:33654/images/45b8b73a451a7adaa773_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/45b8b73a451a7adaa773_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/45b8b73a451a7adaa773_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/45b8b73a451a7adaa773_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/45b8b73a451a7adaa773_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/45b8b73a451a7adaa773_B.png
+No. 45 / 50
+SECCON 2017 Online CTF
+Go! Go!
+Next URL is:
+http://qubicrube.pwn.seccon.jp:33654/46e39cc61ab2dc6cafd6
+Qubic Rube
+download http://qubicrube.pwn.seccon.jp:33654/images/46e39cc61ab2dc6cafd6_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/46e39cc61ab2dc6cafd6_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/46e39cc61ab2dc6cafd6_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/46e39cc61ab2dc6cafd6_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/46e39cc61ab2dc6cafd6_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/46e39cc61ab2dc6cafd6_B.png
+http://qubicrube.pwn.seccon.jp:33654/47d1c75eac4456b0cadc
+Go! Go!
+Qubic Rube
+No. 46 / 50
+SECCON 2017 Online CTF
+Next URL is:
+download http://qubicrube.pwn.seccon.jp:33654/images/47d1c75eac4456b0cadc_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/47d1c75eac4456b0cadc_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/47d1c75eac4456b0cadc_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/47d1c75eac4456b0cadc_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/47d1c75eac4456b0cadc_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/47d1c75eac4456b0cadc_B.png
+No. 47 / 50
+http://qubicrube.pwn.seccon.jp:33654/4882153b757d0af86d97
+SECCON 2017 Online CTF
+Go! Go!
+Next URL is:
+Qubic Rube
+download http://qubicrube.pwn.seccon.jp:33654/images/4882153b757d0af86d97_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/4882153b757d0af86d97_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/4882153b757d0af86d97_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/4882153b757d0af86d97_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/4882153b757d0af86d97_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/4882153b757d0af86d97_B.png
+Next URL is:
+SECCON 2017 Online CTF
+http://qubicrube.pwn.seccon.jp:33654/49d06dfaeaefaa612e72
+Go! Go!
+Qubic Rube
+No. 48 / 50
+download http://qubicrube.pwn.seccon.jp:33654/images/49d06dfaeaefaa612e72_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/49d06dfaeaefaa612e72_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/49d06dfaeaefaa612e72_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/49d06dfaeaefaa612e72_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/49d06dfaeaefaa612e72_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/49d06dfaeaefaa612e72_B.png
+No. 49 / 50
+Next URL is:
+http://qubicrube.pwn.seccon.jp:33654/504ded069e4db4e3bef9
+Go! Go!
+SECCON 2017 Online CTF
+Qubic Rube
+download http://qubicrube.pwn.seccon.jp:33654/images/504ded069e4db4e3bef9_L.png
+download http://qubicrube.pwn.seccon.jp:33654/images/504ded069e4db4e3bef9_R.png
+download http://qubicrube.pwn.seccon.jp:33654/images/504ded069e4db4e3bef9_U.png
+download http://qubicrube.pwn.seccon.jp:33654/images/504ded069e4db4e3bef9_D.png
+download http://qubicrube.pwn.seccon.jp:33654/images/504ded069e4db4e3bef9_F.png
+download http://qubicrube.pwn.seccon.jp:33654/images/504ded069e4db4e3bef9_B.png
+Qubic Rube
+Congratulations!
+SECCON 2017 Online CTF
+SECCON{Thanks to Denso Wave for inventing the QR code}
+No. 50 / 50
+The flag is:
