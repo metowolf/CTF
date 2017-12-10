@@ -26,7 +26,14 @@ with open('tktk.jpg', 'rb') as f:
 
 ```
 
-but it is to large
+~~but it is to large~~
+
+----------
+update: in test.4985.jpg, I get the flag XD
+
+![](https://i.loli.net/2017/12/10/5a2d0d0b8a6fd.png)
+----------
+
 
 then find a website http://www.jpeg-repair.org/vg-jpeg-repair/
 
